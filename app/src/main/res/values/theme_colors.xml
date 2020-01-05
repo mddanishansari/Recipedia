@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!--Default theme colors-->
+    <!--dark theme colors-->
+    <color name="default_primary_dark_theme">#212121</color>
+    <color name="default_primary_dark_dark_theme">#000000</color>
+    <color name="default_accent_dark_theme">#64B5F6</color>
+    <color name="default_accent_dark_dark_theme">#2196F3</color>
+    <color name="default_window_bg_dark_theme">#303030</color>
+    <color name="default_card_bg_dark_theme">#424242</color>
+    <color name="default_toolbar_title_color_dark_theme">#ffffff</color>
+</resources>

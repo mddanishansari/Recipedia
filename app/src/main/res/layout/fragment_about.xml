@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:squint="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.intrusoft.squint.DiagonalView
+        android:id="@+id/diagonal"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        squint:angle="13"
+        squint:gravity="left"
+        squint:scaleType="centerCrop"
+        squint:src="@drawable/me" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/diagonal"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="end"
+        android:paddingRight="16dp"
+        android:text="MD Danish Ansari"
+        android:textColor="?android:textColorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/diagonal"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="end"
+        android:paddingRight="16dp"
+        android:text="Developer"
+        android:textColor="?android:textColorSecondary"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/diagonal"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="@string/developer_info"
+        android:textColor="?android:textColorSecondary"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>

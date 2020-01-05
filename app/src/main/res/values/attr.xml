@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="MyStyle">
+    <attr name="cardBg" format="color" />
+    <attr name="placeHolder" format="reference" />
+    <attr name="bulletColor" format="color"/>
+</declare-styleable>
+</resources>

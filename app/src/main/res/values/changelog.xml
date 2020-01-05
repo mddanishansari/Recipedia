@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="changelog">
+        <item>Initial Release</item>
+        <item>60+ Indian Recipes</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Recipedia</string>
+
+<string name="lines">\"A recipe has no soul, you as a cook must bring soul to it\"</string>
+    <string name="home">Home</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+
+    <!--dialog string-->
+    <string name="wait_dialog_title">Fetching recipes</string>
+    <string name="wait_dialog_content">Please wait while we collect data from the server.</string>
+    <string name="no_internet_connection_dialog_title">No Internet Connection</string>
+    <string name="no_internet_connection_dialog_content">It seems like you don\'t have an internet connection. Please connect to internet and try again.</string>
+
+
+    <!--Nav Drawer Titles-->
+
+    <string name="nav_home">Home</string>
+    <string name="nav_category">Category</string>
+    <string name="nav_random">Random</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_change_theme">Change Theme</string>
+    <string name="nav_open_source">Open Source</string>
+    <string name="nav_rate_and_share">Rate &amp; Share</string>
+    <string name="nav_about">About</string>
+    <string name="nav_rate">Rate</string>
+    <string name="nav_setting">Settings</string>
+    <string name="nav_submit">Submit</string>
+    <string name="nav_implemented_libraries">Implemented Libraries</string>
+
+    <string name="json_file_url">https://raw.githubusercontent.com/mddanishansari/Recipe-Android-App-Project/master/json/recipes.json</string>
+
+
+    <!--strings for main recipe activity-->
+    <string name="serves">Serves</string>
+    <string name="makes">Makes</string>
+    <string name="preparation">Preparation</string>
+    <string name="cooking">Cooking</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="method">Method</string>
+
+    <string name="ingredient_test">&#8226; Item1\n\n&#8226; Item2\n\n&#8226; Item3</string>
+    <string name="preparation_test">&#8226; Blah blah blah blah blah blah blah bah blah blah blah blah blah bah blah blah blah blah blah bah blah blah blah blah blah blah\n\n&#8226; Blah blah blah blah blah blah blah blah\n\n&#8226; Blah blah blah blah blah blah blah blah</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="first_run">firstRun</string>
+
+
+    <!--app intro slideers-->
+    <string name="slide_one_title">Welcome to Recipedia</string>
+    <string name="slide_two_title">Cloud Storage</string>
+    <string name="slide_three_title">Lots of Recipes</string>
+    <string name="slide_four_title">Favorite facility</string>
+    <string name="slide_five_title">Rate and Share</string>
+
+    <string name="prefs_theme_key">theme</string>
+
+    <!--menu title strings-->
+    <string name="menu_title_favorite">Favorite</string>
+    <string name="menu_title_share">Share</string>
+    <string name="menu_title_shuffle">Shuffle</string>
+    <string name="menu_title_changelog">Changelog</string>
+
+
+    <string name="just_a_sec">Just a second</string>
+
+    <string-array name="rate_and_share">
+        <item>Rate</item>
+        <item>Share</item>
+    </string-array>
+
+    <string name="share_texts">Hey check out this amazing food recipe app Recipedia. Got it from Play Store.\n\nYou can download it from here: https://play.google.com/store/apps/details?id=com.md.recipedia</string>
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.md.recipedia</string>
+
+    <string name="share_recipe_footer">\n\nYou can grab the Recipedia app on Play Store:\nhttps://play.google.com/store/apps/details?id=com.md.recipedia</string>
+
+    <!--developer info-->
+    <string name="developer_name">MD Danish Ansari</string>
+    <string name="developer_info">Hey everyone, this is MD Danish Ansari from India. I am an Android enthusiast who creates android app mostly for learning purpose.\n\nRecipedia is the app completely developed by me alone. Hope you love it and don\'t forget to rate and share it. Thank you.</string>
+    <string name="developer_emailid">ansarid567@gmail.com</string>
+    <string name="developer_facebook">https://www.facebook.com/mddanish.ansari95</string>
+    <string name="developer_google_plus">https://plus.google.com/u/0/+MDDanishAnsariDev</string>
+    <string name="developer_play_store">https://play.google.com/store/apps/dev?id=8794370927598475988</string>
+    <string name="developer_github">https://github.com/mddanishansari</string>
+    <string name="email_subject">Recipedia Feedback</string>
+
+
+    <string name="open_source_title">Free Source Code</string>
+    <string name="open_source_info">If you\'re a developer, this will interest you, if you\'re not just avoid it. \n\nYes the source code of the app is available for free on Github. You can download the code. Modify it, improve it, distribute it, publish it or play with it in whatever you want.\n\nBut if you are improving the code, just make sure you let me know about it. So I can learn new things and we can make things more better for everyone. After all this is what \'open source\' is all about.\n\nSo, what are you waiting for ?</string>
+    <string name="github_link">https://github.com/mddanishansari/Recipedia/</string>
+    <string name="implemented_libraries_title">Implemented Libraries</string>
+    <string name="implemented_libraries_info">Check out the various open soure libraries implemented by Recipedia.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
